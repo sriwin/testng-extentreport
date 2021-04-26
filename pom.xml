@@ -14,7 +14,7 @@
         <build.sourceEncoding>UTF-8</build.sourceEncoding>
         <commons-lang.version>3.0</commons-lang.version>
         <freemarker.version>2.3.28</freemarker.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <selenium.version>3.14.0</selenium.version>
         <xmlbeans.version>2.6.0</xmlbeans.version>
         <mongodb.version>3.7.0</mongodb.version>
